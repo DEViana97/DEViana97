@@ -2,7 +2,7 @@
 
 I'm Matheus, I'm a programmer focused on FrontEnd
 
-# Languages and techs that I use on a daily basis 👨‍💻
+### Languages and techs that I use on a daily basis 👨‍💻
 
 <div style="display: inline_block"><br>
   <img align="center" alt="matt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
