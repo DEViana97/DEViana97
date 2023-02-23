@@ -1,6 +1,6 @@
 ### Hi there 🖖
 
-I'm Matheus, I'm a programmer focused on FrontEnd
+I'm Matheus, I'm a programmer focused on FrontEnd and Mobile
 
 ### Languages and techs that I use on a daily basis 👨‍💻
 
