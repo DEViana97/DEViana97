@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Sou um desenvolvedor Front-End com experiência sólida em React, Next.js e TypeScript, especializado em construir interfaces altamente responsivas, escaláveis e focadas em experiência do usuário.<br><br>Atualmente na STB Tecnologias, contribuo ativamente para projetos robustos, aplicando boas práticas de componentização, performance e mobile-first design, utilizando bibliotecas modernas como Tailwind e Styled Components.<br><br>Estou sempre buscando superar expectativas, entregando produtos que unem tecnologia e usabilidade, enquanto continuo minha formação acadêmica em Análise e Desenvolvimento de Sistemas.
 
 
